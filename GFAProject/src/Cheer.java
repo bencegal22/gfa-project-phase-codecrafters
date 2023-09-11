@@ -4,11 +4,11 @@ public class Cheer {
         System.out.println(language);
     }
 
-    public String getTeamName() {
+    public String getLanguage() {
         return language;
     }
 
-    public void setTeamName(String language) {
+    public void setLanguage(String language) {
         this.language = language;
     }
 }
