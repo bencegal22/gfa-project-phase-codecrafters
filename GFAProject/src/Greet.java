@@ -1,14 +1,14 @@
 public class Greet {
-    private String name = "Gergely";
-    public void greet(String name) {
-        System.out.println(name);
+    private String greeting = "Greetings!";
+    public void greet(String greeting) {
+        System.out.println(greeting);
     }
 
-    public String getName() {
-        return name;
+    public String getgreeting() {
+        return greeting;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setgreeting(String greeting) {
+        this.greeting = greeting;
     }
 }
