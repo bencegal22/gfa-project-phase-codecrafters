@@ -12,7 +12,7 @@ public class HoroscopeAntonin {
     }
 
     public void future (String horoscope, String month) {
-        System.out.println(horoscope);
+        System.out.println("Your future looks like " + horoscope);
         System.out.println(month);
     }
 }
