@@ -1,14 +1,14 @@
 public class Cheer {
-    private String teamName = "Codecrafters";
+    private String language = "Java";
     public void cheer(){
-        System.out.println(teamName);
+        System.out.println(language);
     }
 
     public String getTeamName() {
-        return teamName;
+        return language;
     }
 
-    public void setTeamName(String teamName) {
-        this.teamName = teamName;
+    public void setTeamName(String language) {
+        this.language = language;
     }
 }
