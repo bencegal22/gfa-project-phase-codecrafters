@@ -3,4 +3,12 @@ public class Count {
     public void count(){
         System.out.println("I born in the " + monthOfBorn + ". month");
     }
+
+    public int getMonthOfBorn() {
+        return monthOfBorn;
+    }
+
+    public void setMonthOfBorn(int monthOfBorn) {
+        this.monthOfBorn = monthOfBorn;
+    }
 }
