@@ -1,8 +1,9 @@
 public class Cheer {
     private String language = "Java";
     private String teamName= "CodeCrafters";
-    public void cheer(){
-        System.out.println(language + " " + teamName);
+    public void cheer(String parameter){
+        //System.out.println(language + " " + teamName);
+        System.out.println("Cheer for " + parameter);
     }
 
     public String getLanguage() {
