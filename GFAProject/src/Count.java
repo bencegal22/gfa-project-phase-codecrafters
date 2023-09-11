@@ -1,14 +1,15 @@
 public class Count {
-    private int monthOfBorn = 12;
+    private int monthOfBirth = 04;
+    private int yearOfBirth = 1998;
     public void count(){
-        System.out.println("I born in the " + monthOfBorn + ". month");
+        System.out.println("I born in " + monthOfBirth + " of " + yearOfBirth);
     }
 
-    public int getMonthOfBorn() {
-        return monthOfBorn;
+    public int getMonthOfBirt() {
+        return monthOfBirth;
     }
 
-    public void setMonthOfBorn(int monthOfBorn) {
-        this.monthOfBorn = monthOfBorn;
+    public void setMonthOfBirth(int monthOfBirth) {
+        this.monthOfBirth = monthOfBirth;
     }
 }
