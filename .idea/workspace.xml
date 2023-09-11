@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c54bf98-f3b7-47c0-a0c4-2a8c96dcbcc6" name="Changes" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
 <<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 =======
 >>>>>>> 254e46411c2dd15e017cdf960b9fd669db6053f3
+>>>>>>> ed3e0c4bdd6bf13bd2de42c60c60e4ccd85d182b
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +78,11 @@
       <updated>1694419115130</updated>
       <workItem from="1694419116196" duration="55000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+      <workItem from="1694419709359" duration="1511000" />
+=======
       <workItem from="1694419603540" duration="1283000" />
+>>>>>>> 0e21dd013eec1ee72e0531c6e02b3bbfe2b8a547
 =======
 <<<<<<< HEAD
       <workItem from="1694419611787" duration="860000" />

@@ -1,8 +1,10 @@
 
 public class Horoscope {
 
-    public void future () {
-        System.out.println("Pisces");
+    private String horoscope = "Pisces";
+
+    public void future (String horoscope) {
+        System.out.println(horoscope);
     }
 
 }
