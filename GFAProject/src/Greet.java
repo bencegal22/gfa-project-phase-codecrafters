@@ -2,7 +2,7 @@ public class Greet {
     private String greeting = "Greetings";
     private String name = "Gergely!";
     public void greet(String greeting, String name) {
-        System.out.println(greeting + " " + name);
+        System.out.println("Greetings for the " + greeting + " " + name);
     }
 
     public String getGreeting() {
